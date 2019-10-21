@@ -4,3 +4,4 @@
 .ipynb_checkpoints
 *.sh
 *.pyc
+data/*
